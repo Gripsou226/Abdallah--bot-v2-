@@ -9,7 +9,7 @@
       "CONNECT_MONGODB": false,
       "MONGO_URI": ""
     },
-    "json": {d
+    "json": {
       "CONNECT_JSON": true
     }
   },
