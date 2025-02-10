@@ -1,6 +1,6 @@
 {
   "botToken": "",
-  "botPrefix": "/",
+  "botPrefix": ",",
   "DATABASE": {
     "sqlite": {
       "CONNECT_SQLITE": false
@@ -14,9 +14,9 @@
     }
   },
   "ADMIN_IDS": [
-    1472439428
+    61563580892213
   ],
-  "OWNER_ID": 1472439428,
+  "OWNER_ID": 61563580892213,
   "skip": {
     "events": ["no"],
     "commands": ["no"]
