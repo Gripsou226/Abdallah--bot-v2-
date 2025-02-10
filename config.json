@@ -1,5 +1,5 @@
 {
-  "botToken": "",
+  "botToken": "facebook.com",
   "botPrefix": ",",
   "DATABASE": {
     "sqlite": {
@@ -9,7 +9,7 @@
       "CONNECT_MONGODB": false,
       "MONGO_URI": ""
     },
-    "json": {
+    "json": {d
       "CONNECT_JSON": true
     }
   },
