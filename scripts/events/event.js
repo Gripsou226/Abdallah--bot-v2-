@@ -2,7 +2,7 @@ export const XarV2 = {
   config: {
     name: "eventLogger",
     version: "1.0",
-    author: "Your Name",
+    author: "Abdallaha Ackermann",
     cooldowns: 5,
     role: 0,
     shortDescription: "Log all events",
